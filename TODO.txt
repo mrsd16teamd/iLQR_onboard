@@ -9,6 +9,7 @@ we can get this up and running quickly.
 Figure out where to put past inputs.
 
 Stuff to do (in approximate order)
+- correct tire dynamic model according to cyrus' commit on matlab repo
 - iLQR::init_traj (check pending)
 - iLQR::forward_pass - almost done, need control_limits to be implemented
 - iLQR::backward_pass -
