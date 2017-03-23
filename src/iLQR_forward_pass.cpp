@@ -6,7 +6,7 @@ void iLQR::forward_pass(const VecXd &x0, const VecOfVecXd &u,
 	// Initialize dummy vectors;
 	VecOfVecXd x;
 
-	forward_pass(x0, u, xnew, unew, new_cost, x;
+	forward_pass(x0, u, xnew, unew, new_cost, x);
 }
 
 void iLQR::forward_pass(const VecXd &x0, const VecOfVecXd &u,

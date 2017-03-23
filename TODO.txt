@@ -18,6 +18,7 @@ Check inputs/outputs individually:
 - forward_pass
 - backward_pass
 
+
 - integrate cost for change in control input
 - printing stuff in iLQR_main at every iteration
 - write final control sequence and states to text file
