@@ -1,12 +1,13 @@
 -------------
 TO-DO
-- step 2 in iLQR_core
-	- check for termination due to small gradient
 
 Check inputs/outputs individually:
 - compute_derivatives
 - forward_pass
 - backward_pass
+
+- step 2 in iLQR_core
+	- check for termination due to small gradient
 
 - integrate cost for change in control input
 
@@ -29,7 +30,6 @@ FASTER
 Later on:
 - fix all the messy stuff
 	- extract methods into smaller methods, especially in fw, bw, boxQP
-
 
 - make it more readable
 	- see google cpp style guide
