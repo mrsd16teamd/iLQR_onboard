@@ -1,6 +1,6 @@
 -------------
-TODO
-- step 2~4 in iLQR_core
+TO-DO
+- step 2 in iLQR_core
 	- check for termination due to small gradient
 
 Check inputs/outputs individually:
@@ -28,7 +28,6 @@ FASTER
 -----------
 Later on:
 - fix all the messy stuff
-	- sort out public/private in classes
 	- extract methods into smaller methods, especially in fw, bw, boxQP
 
 
